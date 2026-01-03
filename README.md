@@ -1,4 +1,4 @@
-# Superstore-Sales-Analysis
+# Superstore-Sales-Profit-Analysis
 
 ## Overview
 This project focuses on analyzing sales performance and profitability using Python. 
